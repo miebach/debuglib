@@ -1,8 +1,11 @@
 debuglib
 ========
 
-debuglib created by Thomas Schüßler
+Thomas Schüßler's debuglib for php.
 
-To get help:
+**To get help:**
 
-print_a(array(),"help:");
+    require_once("debuglib.php");
+    print_a(array(),"help:");
+
+**Download:** https://raw.githubusercontent.com/miebach/debuglib/master/debuglib.php
