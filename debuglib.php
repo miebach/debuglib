@@ -5,6 +5,7 @@
 ## Last changed  : 31.03.2009 10:15:13
 ## Revision      : 45
 ## Website       : http://phpdebuglib.de
+## Mirror        : https://github.com/miebach/debuglib
 ############################################################
 
 /*
